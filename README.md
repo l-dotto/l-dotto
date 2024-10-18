@@ -12,4 +12,4 @@
 With a deep passion for **Customer Experience, DevOps, Automated Tests** and **Data Science**. I specialize in turning complex projects into, innovative solutions, promoting digital transformation
 
 - 🔭 Currently working on two projects, industries 4.0 and a solution for financing inspections
-- 🌱 Always expanding my knowledge and trying to replicate this knowledge.
+- 🌱 Always expanding my knowledge and trying to replicate this with more people
