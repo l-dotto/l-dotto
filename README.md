@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Dotto!
 
-**Project Manager at [Premier](https://premiersoft.net/en/). Trying to stay close to the code to stay up to date and find some good challenges to play.**
+**Project Manager at [Premiersoft](https://premiersoft.net/en/). Trying to stay close to the code to stay up to date and find some good challenges to play.**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
