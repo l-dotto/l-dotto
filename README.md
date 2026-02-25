@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a **Project Manager & Senior Developer** who bridges strategy and execution. I stay close to the code because great technical leadership requires understanding the craft at every level — from architectural decisions to the quality of a pull request.
+I'm a **Project Manager & Senior Developer** who bridges strategy and execution. I stay close to the code because great technical leadership requires understanding the craft at every level from architectural decisions to the quality of a pull request.
 
 My focus is on building engineering cultures where **process, automation, and AI** work together to accelerate delivery without compromising quality.
 
