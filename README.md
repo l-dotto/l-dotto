@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Luan Dotto
+# Hi there, I'm Luan Dotto 👋
 
 ### Engineering Leader · Project Manager · Technical Architect
 
