@@ -99,11 +99,3 @@ Product & CX             ██████████████████�
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l-dotto&theme=tokyonight)
 
 </div>
-
----
-
-<div align="center">
-
-*"The best CTOs don't just set the vision — they can still read the diff."*
-
-</div>
