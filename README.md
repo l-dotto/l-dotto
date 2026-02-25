@@ -88,7 +88,7 @@ Product & CX             ██████████████████�
 |---|---|---|
 | Industry 4.0 Platform | AWS · Kafka · Python · React | Real-time pipelines & IoT integration |
 | Financing Inspections | NestJS · PostgreSQL · Next.js | Workflow automation & document intelligence |
-| AI CRM | NestJS · PostgreSQL · Next.js · Serverless | Workflow automation & document intelligence |
+| AI CRM | NestJS · PostgreSQL · Next.js · Serverless | Customer service powered by AI and intelligent CRM. |
 ---
 
 ## GitHub Stats
